@@ -1,0 +1,23 @@
+{
+  "name": "newmusiccli",
+  "version": "1.0.0",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cfonts": "^3.3.0",
+    "chalk": "^5.4.1",
+    "cli-table3": "^0.6.5",
+    "inquirer": "^12.7.0",
+    "node-mpv": "^1.5.0",
+    "ora": "^8.2.0",
+    "play-sound": "^1.1.6",
+    "youtube-sr": "^4.3.11"
+  }
+}
